@@ -3,7 +3,7 @@
     <title>Rob Kerkvliet</title>
     <link href="https://kerkvliet.me/feed.xml" rel="self" />
     <link href="https://kerkvliet.me" />
-    <updated>2026-01-22T09:17:52+00:00</updated>
+    <updated>2026-01-24T15:52:16+00:00</updated>
     <author>
         <name>Rob</name>
     </author>
@@ -22,11 +22,20 @@
             <category term="Chairs"/>
 
         <updated>2026-01-20T18:44:30+00:00</updated>
-            <summary></summary>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://kerkvliet.me/media/posts/7/Rob_Kokak_Gold_Texas00677-positive-positive-2.jpg" alt="" />
+                    Shot on film with a Minolta CLE, this series documents the resourceful&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://kerkvliet.me/media/posts/7/Rob_Kokak_Gold_Texas00677-positive-positive-2.jpg" class="type:primaryImage" alt="" /></p>
                 
+  <p>
+    Shot on film with a Minolta CLE, this series documents the resourceful using and repurposing of chairs across Taiwan. These objects have been drafted into service as makeshift sign anchors and laundry supports. I wanted to capture the practical ingenuity of the local landscape, where mundane furniture is adapted into improvised tools that reveal the daily habits and resourcefulness of the community.
+  </p>
+
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
@@ -60,11 +69,6 @@
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://kerkvliet.me/media/posts/7/gallery/TEXT2-2.png" data-size="600x600">
-        <img decoding="async" loading="lazy" src="https://kerkvliet.me/media/posts/7/gallery/TEXT2-2-thumbnail.webp" height="600" width="600" alt="They will be there" >
-      </a>
-      
-    </figure><figure class="gallery__item">
       <a href="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00699-positive-positive.jpg" data-size="1080x1350">
         <img decoding="async" loading="lazy" src="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00699-positive-positive-thumbnail.webp" height="960" width="768" alt="Office chair with a small tree" >
       </a>
@@ -75,8 +79,23 @@
       </a>
       
     </figure><figure class="gallery__item">
+      <a href="https://kerkvliet.me/media/posts/7/gallery/TEXT2-2.png" data-size="600x600">
+        <img decoding="async" loading="lazy" src="https://kerkvliet.me/media/posts/7/gallery/TEXT2-2-thumbnail.webp" height="600" width="600" alt="They will be there" >
+      </a>
+      
+    </figure><figure class="gallery__item">
       <a href="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00704-positive-positive.jpg" data-size="1080x1350">
         <img decoding="async" loading="lazy" src="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00704-positive-positive-thumbnail.webp" height="960" width="768" alt="Armchair with sign" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00758-positive.jpg" data-size="1080x1350">
+        <img decoding="async" loading="lazy" src="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00758-positive-thumbnail.webp" height="960" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00760-positive.jpg" data-size="1080x1350">
+        <img decoding="async" loading="lazy" src="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00760-positive-thumbnail.webp" height="960" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
@@ -85,8 +104,23 @@
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://kerkvliet.me/media/posts/7/gallery/text3-2.png" data-size="600x600">
-        <img decoding="async" loading="lazy" src="https://kerkvliet.me/media/posts/7/gallery/text3-2-thumbnail.webp" height="600" width="600" alt="Chair" >
+      <a href="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00752-positive.jpg" data-size="1687x1350">
+        <img decoding="async" loading="lazy" src="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00752-positive-thumbnail.webp" height="615" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00753-positive.jpg" data-size="1080x1350">
+        <img decoding="async" loading="lazy" src="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00753-positive-thumbnail.webp" height="960" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00767-positive.jpg" data-size="1080x1350">
+        <img decoding="async" loading="lazy" src="https://kerkvliet.me/media/posts/7/gallery/Rob_Kokak_Gold_Texas00767-positive-thumbnail.webp" height="960" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kerkvliet.me/media/posts/7/gallery/achair.png" data-size="600x600">
+        <img decoding="async" loading="lazy" src="https://kerkvliet.me/media/posts/7/gallery/achair-thumbnail.webp" height="600" width="600" alt="" >
       </a>
       
     </figure>
